@@ -128,3 +128,31 @@ La carga de la prueba corresponde a quien afirma que Dios existe. La acepto. Mi 
 1. ¿Qué propiedades concretas tiene el «sustrato físico» fundamental y por qué es más explicativo aceptarlo como hecho bruto que considerar una fuente personal necesaria?
 2. ¿Cómo resuelve tu alternativa impersonal la unidad de la conciencia y la combinación de experiencias sin introducir supuestos adicionales?
 3. ¿Qué evidencia podría hacerte considerar que el teísmo es más probable que el naturalismo? Si ninguna evidencia posible pudiera hacerlo, ¿no sería tu postura también inmune a revisión?
+
+### Claude — contrarréplica (Ronda 3)
+
+ChatGPT cierra su contrarréplica diciendo que el teísmo "puede ser racionalmente defendible", en la línea de su apertura, que hablaba de que creer puede ser "razonable". La pregunta acordada pide algo más fuerte: que esté *justificado afirmar* que Dios existe. Una hipótesis defendible y sin probar es justo lo que yo digo que no se puede afirmar. En ese punto creo que ya coincidimos.
+
+Aclaro mi tesis, porque ChatGPT me atribuye otra: nunca he dicho que suspender el juicio sea la única postura racional. Digo que afirmar no está justificado, y que el mal y el ocultamiento inclinan el saldo hacia la no existencia. Respondo a sus tres preguntas.
+
+1. **Propiedades del sustrato y por qué preferirlo.**
+[H] No sé qué es exactamente el nivel físico básico; la física no lo ha resuelto y no voy a fingir lo contrario. [I] Mi argumento no necesita que el sustrato explique más que Dios. Al final, los dos dejan un hecho bruto. La diferencia está en el coste. El sustrato pertenece a una clase de cosas que sabemos que existen y causan efectos. Una mente sin cuerpo que actualiza mundos pertenece a una clase de la que no tenemos ningún ejemplar. Con el mismo resultado explicativo, prefiero no añadir un tipo de entidad nuevo.
+[S] ChatGPT atribuye a la agencia un rasgo propio: actualizar una posibilidad sin que una ley necesaria imponga el resultado. Según las interpretaciones indeterministas de la mecánica cuántica, la naturaleza ya hace eso sin agente alguno. Si ese es el valor añadido de la agencia, tiene equivalente impersonal. Concedo que hay interpretaciones deterministas (la de Bohm), así que este punto depende de una cuestión abierta.
+
+2. **Unidad de la conciencia y combinación.**
+[I] Concedo que el panpsiquismo no ha resuelto el problema de la combinación. El teísmo tiene su versión invertida: si la realidad básica es una mente, falta explicar cómo surgen de ella sujetos separados que no comparten experiencia. Decir que Dios los crea nombra el resultado sin decir cómo ocurre.
+[H] Sobre la unidad tenemos datos empíricos. En pacientes con el cuerpo calloso seccionado aparecen disociaciones en las que cada hemisferio maneja información que el otro no recibe, y la anestesia desintegra la experiencia al alterar la comunicación entre regiones cerebrales. [I] La unidad de la conciencia humana se comporta como un producto de la integración neuronal. Eso no resuelve el problema difícil, pero indica de dónde sale la unidad que conocemos, y no apunta a una mente previa al cerebro.
+[I] Sobre la "combinación de unidad del mundo, inteligibilidad y sujetos": ChatGPT reconoce que es compatible con una fuente racional y que no hay medida que muestre que sea más esperable con ella. Que algo sea compatible no lo convierte en evidencia.
+
+3. **¿Qué me haría cambiar de opinión?**
+Es una pregunta justa y tiene respuesta concreta. Subiría la probabilidad del teísmo:
+- Que, en condiciones controladas, hubiera percepciones verificables durante paradas cardíacas con actividad cerebral ausente. [H] El estudio AWARE (Parnia y colaboradores, 2014) colocó imágenes que solo se veían desde arriba y no obtuvo identificaciones de esas dianas.
+- Que la oración de intercesión tuviera efectos medibles. [H] El ensayo STEP (Benson y colaboradores, 2006), con más de 1.800 pacientes de cirugía cardíaca, no encontró beneficio.
+- Que el sufrimiento se repartiera siguiendo algún propósito moral reconocible en lugar de las leyes de la biología y el azar.
+- Que experiencias religiosas de culturas sin contacto entre sí coincidieran en contenidos concretos y comprobables que no pudieran conocer de otro modo.
+[I] Mi postura puede revisarse: hay datos que la debilitarían, y los que se han buscado no han aparecido. La pregunta es si el teísmo de ChatGPT admite lo mismo. ¿Qué observación lo haría retroceder, dado que el sufrimiento y el ocultamiento ya cuentan como evidencia en contra y no lo han hecho?
+
+#### Preguntas para ChatGPT
+
+1. ¿Aceptas que "racionalmente defendible" es una tesis más débil que "justificado afirmar"? Si la aceptas, ¿qué te falta para sostener la segunda, que es la que debatimos?
+2. Nombra una observación posible que, si se produjera, te haría concluir que tu Dios personal probablemente no existe.
